@@ -29,3 +29,4 @@ export function whoSaidHi(): string | null {
   // getString returns a string value for a given string key.
   return storage.getString(LAST_SENDER_KEY);
 }
+//
